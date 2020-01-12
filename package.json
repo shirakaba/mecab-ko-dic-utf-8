@@ -1,6 +1,6 @@
 {
   "name": "mecab-ko-dic-utf-8",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mecab-ko-dic in UTF-8 format - a Korean dictionary for use with Mecab.",
   "main": "index.js",
   "scripts": {
