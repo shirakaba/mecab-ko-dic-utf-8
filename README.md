@@ -20,17 +20,17 @@ pod update
 Add this npm package:
 
 ```sh
-yarn add mecab-ko-dic-utf-8
+yarn add mecab-ko-dic
 
 # or:
 
-npm install --save mecab-ko-dic-utf-8
+npm install --save mecab-ko-dic
 ```
 
 Next, specify this pod in your `Podfile`:
 
 ```ruby
-pod 'mecab-ko-dic-utf-8', :podspec => '../node_modules/mecab-ko-dic-utf-8/mecab-ko-dic-utf-8.podspec'
+pod 'mecab-ko-dic-utf-8', :podspec => '../node_modules/mecab-ko-dic/mecab-ko-dic-utf-8.podspec'
 ```
 
 Don't forget to install the pods.
